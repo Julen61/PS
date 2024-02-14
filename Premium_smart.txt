@@ -1,1 +1,19 @@
 
+id="plugin.program.PS" 
+version="8.0.3" 
+zip="https://shorturl.at/dAIRV" 
+
+name="PS" 
+version="1.0.2" 
+url="https://www.dropbox.com/scl/fi/pf1fy59y7j9pfb3kiooya/PIRACI-FINAL.zip?rlkey=ldlh83lh3jh0ai5cs6rnepfkf&dl=1"
+minor="http://"
+gui="http://"
+kodi="20.2" 
+theme="http://" 
+icon="https://TUTAJ LINK DO GRAFIKI ICON" "
+fanart="https://TUTAJ LINK DO GRAFIKI TŁO" 
+preview="https://" 
+adult="no" 
+info="http://" 
+description="PzK Build V.1.0.2"
+
