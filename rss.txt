@@ -1,1 +1,43 @@
+<rss version="8.0.3">
+<channel>
+<title>KODI Premium Smart </title>
 
+<item>
+<title>ZAPRASZAMY </title> 
+</item>
+
+
+
+<item>
+<title>Aktualna wersja: 1.0.0 </title> 
+</item>
+
+
+<item>
+<title>Werjsa należąca do grupy Premium Smart  </title>
+</item>
+
+
+<item>
+<title>02.12.2023.Wykorzystałem materiał od Julena,więc powstało takie cudo. </title> 
+</item>
+
+<item>
+<title>  </title>
+</item>
+
+
+
+<item>
+<title> "PREMIUM SMART" wersja testowa Daniela </title>
+</item>
+
+<item>
+<title>Wersje stworzył-Daniel.Pozdrawiamy.</title>
+</item>
+ 
+</channel>
+</rss>
+ 
+ <item>
+ <title> Do zobaczenia w kolejnych wersjach.  </title>
