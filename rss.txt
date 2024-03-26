@@ -14,12 +14,12 @@
 
 
 <item>
-<title>Werjsa należąca do grupy Premium Smart  </title>
+<title>Werjsa należąca do grupy Premium Smart,robiona na wersji kodi 20.5  </title>
 </item>
 
 
 <item>
-<title>02.12.2023.Poprawione konta dodano to i owo. </title> 
+<title>02.12.2023.Poprawione konta dodano wiele wtyczek. </title> 
 </item>
 
 <item>
