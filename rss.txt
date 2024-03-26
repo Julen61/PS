@@ -9,7 +9,7 @@
 
 
 <item>
-<title>Aktualna wersja: 1.0.2 </title> 
+<title>Aktualna wersja: 1.0.3 </title> 
 </item>
 
 
@@ -19,7 +19,7 @@
 
 
 <item>
-<title>02.12.2023.Poprawione konta dodano wiele wtyczek. </title> 
+<title> 26.03.2024r .Poprawione konta, dodano wiele wtyczek. </title> 
 </item>
 
 <item>
